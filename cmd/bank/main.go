@@ -6,5 +6,5 @@ import (
 )
 
 func main()  {
-  fmt.Println(types.TJS)	
+  fmt.Println(types.)	
 }
