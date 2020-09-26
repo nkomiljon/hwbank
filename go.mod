@@ -1,5 +1,5 @@
-module github.com/nkomiljon/hwbank/v2
+module github.com/nkomiljon/hwbank
 
 go 1.15
 
-require github.com/nkomiljon/hwbank v0.0.0-20200925155738-5e2e73b41582
+
